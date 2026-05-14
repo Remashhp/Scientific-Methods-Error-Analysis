@@ -1,4 +1,4 @@
-# Scientific Methods: Numerical Analysis Portfolio 🚀
+# Scientific Methods: Numerical Analysis📊 
 
 A streamlined implementation of numerical methods for error estimation and polynomial interpolation, developed at **Umm Al-Qura University (UQU)**.
 
