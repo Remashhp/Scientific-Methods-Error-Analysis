@@ -9,8 +9,10 @@ A streamlined implementation of numerical methods for error estimation and polyn
 ## 📊 Visual Results
 Here is a glimpse of the numerical convergence and interpolation accuracy achieved in this project:
 <p align="center">
-  <img src="assets/image1.png" width="400" />
-  <img src="assets/image2.png" width="400" />
+  <img src="assets/image1.png" width="500" />
+</p>
+<p align="center">
+  <img src="assets/image2.png" width="500" />
 </p>
 *Left: Error convergence analysis | Right: Interpolating polynomial vs. True function.*
 
