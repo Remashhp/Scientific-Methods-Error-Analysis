@@ -1,5 +1,5 @@
 # Scientific Methods: Numerical Analysis📊 
-A streamlined implementation of numerical methods for error estimation and polynomial interpolation, developed at **Umm Al-Qura University (UQU)**.
+A streamlined implementation of numerical methods for error estimation and polynomial interpolation,
 ## 🛠️ Core Features
 * **Error Analysis:** Truncation, Round-off, and Propagation error studies.
 * **Interpolation:** Dual-method implementation (Newton & Lagrange) for function approximation.
