@@ -20,4 +20,3 @@ Here is a glimpse of the numerical convergence and interpolation accuracy achiev
 ## 💻 Tech Stack
 `Python` | `NumPy` | `Pandas` | `Matplotlib`
 
----
