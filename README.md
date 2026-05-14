@@ -21,5 +21,3 @@ Here is a glimpse of the numerical convergence and interpolation accuracy achiev
 `Python` | `NumPy` | `Pandas` | `Matplotlib`
 
 ---
-**Maintained by:** Remas AbuKhalil & Team  
-**Institution:** UQU - College of Computer Science
