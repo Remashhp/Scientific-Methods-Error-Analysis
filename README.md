@@ -1,5 +1,4 @@
 # Scientific Methods: Numerical Analysis📊 
-
 A streamlined implementation of numerical methods for error estimation and polynomial interpolation, developed at **Umm Al-Qura University (UQU)**.
 
 ## 🛠️ Core Features
@@ -9,12 +8,10 @@ A streamlined implementation of numerical methods for error estimation and polyn
 
 ## 📊 Visual Results
 Here is a glimpse of the numerical convergence and interpolation accuracy achieved in this project:
-
 <p align="center">
   <img src="image1.png" width="400" />
   <img src="src/image2.png" width="400" />
 </p>
-
 *Left: Error convergence analysis | Right: Interpolating polynomial vs. True function.*
 
 ## 💻 Tech Stack
