@@ -1,6 +1,6 @@
 # Scientific Methods: Numerical Analysis📊 
 A streamlined implementation of numerical methods for error estimation and polynomial interpolation,
-## 🛠️ Core Features
+## Core Features
 * **Error Analysis:** Truncation, Round-off, and Propagation error studies.
 * **Interpolation:** Dual-method implementation (Newton & Lagrange) for function approximation.
 * **Analysis:** Study of Runge’s Phenomenon and polynomial sensitivity.
