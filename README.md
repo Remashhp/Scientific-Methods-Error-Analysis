@@ -1,38 +1,25 @@
-# Scientific-Methods-Error-Analysis
-A comprehensive numerical analysis project focusing on error estimation, Taylor series convergence, and polynomial interpolation (Newton &amp; Lagrange methods)
-# Scientific Methods & Numerical Analysis Project
+# Scientific Methods: Numerical Analysis Portfolio 🚀
 
-This repository contains a collection of numerical analysis tasks developed as part of the **Scientific Methods** course at **Umm Al-Qura University (UQU)**. The project focuses on practical implementations of error analysis and interpolation techniques using Python.
+A streamlined implementation of numerical methods for error estimation and polynomial interpolation, developed at **Umm Al-Qura University (UQU)**.
 
-##  Project Overview
+## 🛠️ Core Features
+* **Error Analysis:** Truncation, Round-off, and Propagation error studies.
+* **Interpolation:** Dual-method implementation (Newton & Lagrange) for function approximation.
+* **Analysis:** Study of Runge’s Phenomenon and polynomial sensitivity.
 
-The project is divided into two main technical modules:
+## 📊 Visual Results
+Here is a glimpse of the numerical convergence and interpolation accuracy achieved in this project:
 
-### 1. Error Analysis & Convergence (Task 4)
-Detailed investigation into different types of computational errors, including:
-* **Round-off Error:** Comparing harmonic sum methods.
-* **Truncation Error:** Analyzing Taylor series convergence for $e^{0.5}$ across multiple terms.
-* **Propagation Error:** Estimating error bounds using First-order and Endpoint methods.
-* **Approximation Error:** Calculating error in polynomial approximations.
+<p align="center">
+  <img src="image1.png" width="400" />
+  <img src="src/image2.png" width="400" />
+</p>
 
-### 2. Interpolation Methods (Task 6)
-Implementation and comparison of polynomial interpolation techniques:
-* **Newton’s Divided Difference:** Building interpolating polynomials for complex functions.
-* **Lagrange Interpolation:** Verifying the uniqueness of the interpolating polynomial.
-* **Visual Comparison:** Plotting true functions vs. interpolants.
-* **Runge’s Phenomenon:** A study on the sensitivity of high-order polynomials.
+*Left: Error convergence analysis | Right: Interpolating polynomial vs. True function.*
 
-## Technologies Used
-* **Language:** Python 3
-* **Libraries:** * `NumPy` & `SciPy` (Mathematical computations)
-    * `Pandas` (Data formatting and tables)
-    * `Matplotlib` (Scientific visualization)
-    * `Jupyter Notebook` (Interactive development)
-
-## 📊 Sample Visualizations
-The project utilizes customized visualizations (using `rebeccapurple` styling) to demonstrate the convergence of errors and the accuracy of interpolation nodes.
+## 💻 Tech Stack
+`Python` | `NumPy` | `Pandas` | `Matplotlib`
 
 ---
-**Developed by:** Remas AbuKhalil & Project Team  
-**Institution:** Umm Al-Qura University (UQU)  
-**Date:** May 2026
+**Maintained by:** Remas AbuKhalil & Team  
+**Institution:** UQU - College of Computer Science
