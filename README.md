@@ -12,7 +12,7 @@ Here is a glimpse of the numerical convergence and interpolation accuracy achiev
 <p align="center">
   <img src="assets/image2.png" width="500" />
 </p>
-*Top: Error convergence analysis (Taylor Series) | Bottom: Interpolating polynomial vs. True function.*
+Top: Error convergence analysis (Taylor Series) | Bottom: Interpolating polynomial vs. True function.
 
 ## 💻 Tech Stack
 `Python` | `NumPy` | `Pandas` | `Matplotlib`
